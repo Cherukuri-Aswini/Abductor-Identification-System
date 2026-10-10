@@ -16,6 +16,4 @@ Key Features
 * Automated image matching and analysis
 * Case tracking
 
-Project Files
-The backend project ZIP file is available in this repository.
 
